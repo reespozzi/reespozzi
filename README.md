@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome Traveller 🤖
 
-https://visitor-badge.glitch.me/badge?${reespozzi}.${reespozzi}=${reespozzi}.${reespozzi}
+
 <!--
 **reespozzi/reespozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,12 +8,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+- 🔭 I’m currently working on the HMCTS Platforms project, with Azure!
+- 🌱 I’m currently learning about all things Azure and refining my software skills
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin

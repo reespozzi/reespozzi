@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+https://visitor-badge.glitch.me/badge?${reespozzi}.${reespozzi}=${reespozzi}.${reespozzi}
 <!--
 **reespozzi/reespozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-https://visitor-badge.glitch.me/badge?${reespozzi}.${reespozzi}=${reespozzi}.${reespozzi}
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

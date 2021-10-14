@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m working on the HMCTS Platforms project, in PlatOps.
+- 🔭 I’m working on the HMCTS Platforms project for the MoJ, in PlatOps with Kainos.
 - 🌱 I’m currently learning about all things Azure, Kubernetes, Jenkins, and Flux, while also refining my frontend software skills
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
+
+
+I also don't know what happened to my git contributions between March and July 🤨

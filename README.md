@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 A little more about where my skills lie: https://reespozzi.z13.web.core.windows.net/
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 

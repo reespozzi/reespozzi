@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
 
+A little more about where my skills lie: https://reespozzi.z13.web.core.windows.net/

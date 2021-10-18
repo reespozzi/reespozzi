@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
 
 A little more about where my skills lie: https://reespozzi.z13.web.core.windows.net/
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi)](https://github.com/anuraghazra/github-readme-stats)
+

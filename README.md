@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
 
 A little more about where my skills lie: https://reespozzi.z13.web.core.windows.net/
-[![Deploy site to Azure!](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)
+
+[![Site status!](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)
 
 Some songs I helped write and play a while back: https://open.spotify.com/artist/3PD0uebcMfAf8rMLvWG489
 

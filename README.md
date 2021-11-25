@@ -21,7 +21,7 @@ A little more about where my skills lie: https://reespozzi.z13.web.core.windows.
 
 Some songs I helped write and play a while back: https://open.spotify.com/artist/3PD0uebcMfAf8rMLvWG489
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+**[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href= "https://www.linkedin.com/in/rees-pozzi"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v2.png"/></a>

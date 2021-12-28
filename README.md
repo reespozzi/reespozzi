@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m working on the HMCTS Platforms project for the MoJ, in PlatOps with Kainos.
+- 🔭 I’m working on the HMCTS Platforms project for the MoJ in PlatOps with Kainos.
 - 🌱 I’m currently learning about all things Azure, Kubernetes, Jenkins, and Flux, while also refining my frontend software skills. 
 - 🔮 Tech I'm excited about now and for the future: Blockchain, IoT & Ambient Energy Harvesting, Cloud, and Smart Contracts.
 - 😄 Pronouns: He / Him

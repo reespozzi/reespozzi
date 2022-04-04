@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A little more about where my skills lie: https://reespozzi.z13.web.core.windows.net/
 
 
-[![Site status!](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)
+[![Site status:](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)
 
 <a href= "https://www.linkedin.com/in/rees-pozzi"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v2.png"/></a>
 

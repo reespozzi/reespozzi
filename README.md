@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 Some songs I helped write and play a while back: https://open.spotify.com/artist/3PD0uebcMfAf8rMLvWG489
 
-<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)-->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reespozzi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 

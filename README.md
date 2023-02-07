@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
 
-[Personal Site](https://reespozzi.z13.web.core.windows.net/) 
+[Personal Site](https://reesp.z35.web.core.windows.net/) 
 
 
 [![Site status!](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)

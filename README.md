@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 [Personal Site](https://reesp.z35.web.core.windows.net/) 
 
-
-[![Site status!](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml/badge.svg)](https://github.com/reespozzi/PersonalSite/actions/workflows/main.yml)
-
 <a href= "https://www.linkedin.com/in/rees-pozzi"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v2.png"/></a>
 
 Some songs I helped write and play a while back: https://open.spotify.com/artist/3PD0uebcMfAf8rMLvWG489

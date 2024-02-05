@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m working on a platforms project for the MoJ in PlatOps with Kainos.
-- 🌱 I’m currently learning about all things Azure, Kubernetes, Jenkins, and Flux, while also refining my frontend software skills. 
+- 🌱 I’m currently working with all things Azure, Kubernetes,and Flux, while also refining my dev skills with TS.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My all time favourite song is Dazed and Confused - Led Zeppelin
 
